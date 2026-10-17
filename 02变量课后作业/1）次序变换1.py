@@ -1,0 +1,4 @@
+# Created on iPad.
+a=int(input('请输入内圈的数字0～9'))
+b=(a+3)%10
+print(f'对应的外圈数字0～9是{b}')
