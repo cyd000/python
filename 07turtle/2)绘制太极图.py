@@ -1,0 +1,12 @@
+import turtle as t
+t.fillcolor('black')
+t.begin_fill()
+t.circle(-100,180)
+t.circle(-50,180)
+t.circle(50,180)
+t.end_fill()
+t.fillcolor('white')
+t.begin_fill()
+t.circle(100,180)
+t.end_fill()
+t.done()
